@@ -35,8 +35,8 @@ const projects = [
 		imageUrl: "TP5devweb.png",
 		technologies: ["Bootstrap 5", "Javascript", "Resful API","NodeJS","Express"],
 		links: [
-			"https://github.com/jsain78480/tp4-Hicham-Julien",
-			"https://jsain78480.github.io/tp4-Hicham-Julien/",
+			"https://github.com/jsain78480/TP4-TP5-Hicham-Julien",
+			"https://jsain78480.github.io/TP4-TP5-Hicham-Julien/",
 		],
 	},
 ]
