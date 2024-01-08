@@ -6,7 +6,7 @@ const projects = [
 		technologies: ["Python", "Restful API"],
 		links: [
 			"https://replit.com/@juliensaintlege/Series",
-			"https://series.juliensaintlege.repl.co/api/series",
+			"https://0e0fa25f-0dd1-42e4-9cdd-864d4df38a19-00-r7nhf94xtkwr.riker.replit.dev/api/series",
 		],
 	},
 	{
